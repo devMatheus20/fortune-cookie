@@ -4,7 +4,7 @@
 
 > O site é um Biscoito da Sorte virtual.
 
-Confira a aplicação: 
+Confira a aplicação: fortune-cookiee.netlify.app
 
 ## :rocket: Tecnologias ##
 
