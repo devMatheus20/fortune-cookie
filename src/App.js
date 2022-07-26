@@ -6,6 +6,7 @@ class App extends Component {
 
   constructor(props) {
     super(props)
+
     this.state = {
       index: undefined
     }
@@ -20,7 +21,8 @@ class App extends Component {
       '"A maior barreira para o sucesso é o medo do fracasso."'
     ];
 
-    this.randomPhrase = this.randomPhrase.bind(this)
+    this.randomPhrase = this.randomPhrase.bind(this) 
+    
   }
 
   randomPhrase() {
