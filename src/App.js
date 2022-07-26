@@ -6,7 +6,6 @@ class App extends Component {
 
   constructor(props) {
     super(props)
-
     this.state = {
       index: undefined
     }
@@ -22,7 +21,6 @@ class App extends Component {
     ];
 
     this.randomPhrase = this.randomPhrase.bind(this) 
-    
   }
 
   randomPhrase() {
