@@ -22,6 +22,7 @@ class App extends Component {
     ];
 
     this.randomPhrase = this.randomPhrase.bind(this) 
+    
   }
 
   randomPhrase() {
